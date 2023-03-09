@@ -26,4 +26,3 @@ This project is used by the following People:
 
 For support, email ronychowdury2019@gmail.com or join our YouTube channel.
 
-<img src="https://www.google.com/search?q=student+library&rlz=1C1BNSD_enBD1000BD1000&sxsrf=AJOqlzU4Qqs_j59c8KMbVhwo9jYobHByuw:1678336507277&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEqdHags79AhXDRmwGHfPOAt8Q_AUoAXoECAIQAw&cshid=1678336757841930&biw=1366&bih=657&dpr=1#imgrc=16Xma66P0WJPIM" style="display: inline-block; margin: 0 auto; max-width: 300px">
